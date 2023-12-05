@@ -1,0 +1,75 @@
+body {background-color: #E8DA9B ;}
+.header {
+	height:200px ;
+	text-align:center ;
+	font-size:70px ;
+	background: radial-gradient(#F4D824,#F2AB1C) ;
+	color: #B78203 ;
+	margin: 0px ;
+}
+#logo {
+	position: relative ;
+	bottom:40px ;
+	width: 200px ;
+	display:block ;
+	margin: auto ;
+}
+.menu {
+	font-size:20px ;
+	background-color:#EFEFEF ;
+	width: 120px ;
+	line-height: 35px ;
+	float: left ;
+	border-radius: 30px ;
+	padding: 5px ;
+	margin-top: 40px ;
+}
+.menuc {
+	
+	position:relative ;
+	right:20px ;
+}
+.menu p {
+	padding-left:30px ;
+}
+#content {
+	border: 3px black solid ;
+	margin-left:200px ;
+	background-color:#EFEFEF  ;
+	margin-left:300px ;
+	margin-right:100px ;
+	margin-bottom: 100px ;
+}
+.footer {
+	font-size:20px ;
+	background-color:#EFEFEF ;
+	position:relative ;
+	bottom:10px ;
+	top:10px ;
+	width:100% ;
+	border:1px solid black ;
+}
+.contentH {
+	text-align:center ;
+	border-radius: 30px ;
+	border:1px solid ;
+	background: radial-gradient(#F99C1E,#FFC679) ;
+	width: 300px ;
+	box-shadow:10px 10px ;
+	
+	margin:auto ;
+	position:relative;
+	top:5px ;
+}
+.contentD {
+	font-size: 25px ;
+	color:#CDAB5D ;
+
+}
+.pin {
+	width:35px ;
+	margin-top:5px ;
+}
+.special {
+	color:black ;
+}

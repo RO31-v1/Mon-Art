@@ -1,0 +1,45 @@
+body {
+	background-color:#E8DA9B ;
+}
+h1 {
+	height:100px ;
+	display: block ;
+	margin:auto ;
+	text-align: center ;
+	font-size:70px ;
+	background: linear-gradient(#F4D824,#F2AB1C) ;
+	color: #B78203 ;
+	border-radius: 30px ;
+	box-shadow:10px 10px ;
+	width: 900px ;
+}
+#colorlogo {
+	width: 500px ;
+	position: fixed ;
+	top:-200px ;
+	left:-150px ;
+}
+.menu {
+	font-size:20px ;
+	background-color:#EFEFEF ;
+	width: 120px ;
+	line-height: 35px ;
+	float: left ;
+	border-radius: 30px ;
+	padding: 5px ;
+	margin-top: 40px ;
+}
+.menuc {
+	position:relative ;
+	right:20px ;
+}
+.menu p {
+	padding-left:30px ;
+}
+.textabout {
+	
+	margin-left:300px ;
+	margin-right:300px ;
+	font-size: 150% ;
+
+}

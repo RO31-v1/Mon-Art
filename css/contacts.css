@@ -1,0 +1,31 @@
+body {
+	background-color:#E8DA9B ;
+}
+.menu {
+	font-size:20px ;
+	background-color:#EFEFEF ;
+	width: 120px ;
+	line-height: 35px ;
+	float: left ;
+	border-radius: 30px ;
+	padding: 5px ;
+	margin-top: 40px ;
+}
+.menuc {
+	position:relative ;
+	right:20px ;
+}
+.menu p {
+	padding-left:30px ;
+}
+.footer {
+	background-color:#EFEFEF ;
+	margin-left: 150px ;
+	margin-right: 150px ;
+	height:500px ;
+}
+img {
+	float:right ;
+	width:50% ;
+	padding-right: 50px ;
+}
